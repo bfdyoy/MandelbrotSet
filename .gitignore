@@ -38,3 +38,6 @@ MandelbrotSet/image-960x960.ppm
 MandelbrotSet/MandelbrotSet.vcxproj
 MandelbrotSet/MandelbrotSet.vcxproj.filters
 MandelbrotSet/MandelbrotSet.vcxproj.user
+.vs/MandelbrotSet/v16/ipch/AutoPCH/6b9b23409e20a3b/CPU_MANDELBROT.ipch
+.vs/MandelbrotSet/v16/ipch/AutoPCH/9a715a8bd1931c3f/MAIN.ipch
+MandelbrotSet/Debug/MandelbrotSet.tlog/unsuccessfulbuild

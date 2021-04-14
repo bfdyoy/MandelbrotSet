@@ -5,6 +5,7 @@ using namespace std::chrono;
 
 int main()
 {
+	// (0) sequential application .
 	auto start = high_resolution_clock::now();
 	
 	CPU_Mandelbrot cpu_set(7640, 7640);
