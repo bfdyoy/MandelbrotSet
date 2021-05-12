@@ -29,7 +29,7 @@ void CPU_Mandelbrot::print_plain_fractal(string img_name)
 {
 	ofstream image(img_name);
 	if (image.is_open())
-	{
+	{ 
 		image << "P3\n" << image_width << " " << image_height << " 255\n";
 		for (int row = 0; row < image_width; row++)
 		{
